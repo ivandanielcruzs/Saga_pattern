@@ -1,12 +1,12 @@
 # Node.js
-node_modules/
-dist/
-coverage/
-.env
-.env.local
-.env.development
-.env.test
-.env.production
+**/node_modules
+**/dist
+**/coverage
+.env*
+.env.local*
+.env.development*
+.env.test*
+.env.production*
 
 # Logs
 npm-debug.log*
