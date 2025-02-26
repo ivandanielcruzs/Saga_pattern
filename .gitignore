@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+dist/
+coverage/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+logs/
+*.log
+*.log.*
+
+# Editor de código
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git y dependencias
+.git/
+.npm/
+.npmrc
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Docker y contenedores
+docker-compose.override.yml
+docker-compose.prod.yml
+.dockerignore
+
+# Build y archivos temporales
+.tmp/
+.cache/
+.eslintcache
+.jest/
+
+# NestJS
+nestjs-cli.json
+
+# Redis
+dump.rdb
