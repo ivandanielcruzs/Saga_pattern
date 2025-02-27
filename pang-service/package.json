@@ -1,5 +1,5 @@
 {
-  "name": "pong-service",
+  "name": "pang-service",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -24,7 +24,6 @@
     "@nestjs/core": "^11.0.1",
     "@nestjs/microservices": "^11.0.10",
     "@nestjs/platform-express": "^11.0.1",
-    "bullmq": "^5.41.6",
     "ioredis": "^5.5.0",
     "kafkajs": "^2.2.4",
     "reflect-metadata": "^0.2.2",
